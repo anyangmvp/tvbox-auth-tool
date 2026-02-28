@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TVBox Tools</string>
+    <string name="copy_credentials">Copy Credentials</string>
+    <string name="credentials_copied">✓ 已复制到剪贴板</string>
+    <string name="no_credentials">No Cookie or Token extracted yet</string>
+    <string name="btn_forward">前进</string>
+    <string name="btn_back">后退</string>
+    <string name="btn_reset">清除</string>
+    <string name="btn_select_list">服务列表</string>
+    <string name="btn_get_auth_info">获取认证</string>
+    <string name="btn_refresh">刷新</string>
+    <string name="toast_cannot_forward">已经是最前面了~</string>
+    <string name="toast_cannot_back">已经是最后面了~</string>
+    <string name="toast_confirm_reset">确认清除</string>
+    <string name="toast_reset_message">要清除当前URL的授权信息吗？</string>
+    <string name="toast_reset_success">✨ 已清除Cookie和LocalStorage</string>
+    <string name="toast_load_webpage">请先加载网页哦~</string>
+    <string name="toast_no_auth_info">没有找到认证信息~</string>
+    <string name="toast_no_cookie">没有找到Cookie~</string>
+</resources>
