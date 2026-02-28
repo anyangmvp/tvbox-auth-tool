@@ -1,0 +1,26 @@
+[
+  {
+    "UC Cloud Drive": {
+      "url": "https://drive.uc.cn",
+      "cookie": "__pus"
+    }
+  },
+  {
+    "Aliyun Drive": {
+      "url": "https://www.alipan.com/drive/home",
+      "js": "JSON.parse(localStorage.token).refresh_token"
+    }
+  },
+  {
+    "Quark Cloud Drive": {
+      "url": "https://pan.quark.cn",
+      "cookie": "__pus"
+    }
+  },
+  {
+    "Bilibili": {
+      "url": "https://www.bilibili.com",
+      "cookie": "SESSDATA"
+    }
+  }
+]

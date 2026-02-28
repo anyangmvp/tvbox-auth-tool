@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 基础渐变背景 -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                    android:angle="135"
+                    android:startColor="#0A0A0A"
+                    android:centerColor="#0D0D1A"
+                    android:endColor="#1A0A2E"
+                    android:type="linear"/>
+        </shape>
+    </item>
+    <!-- 网格纹理叠加 -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#1000FFFF"/>
+        </shape>
+    </item>
+</layer-list>
